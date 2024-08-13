@@ -20,7 +20,7 @@ body {
 }
 h1 {
     font-weight: 900;
-    font-family: 'Pacifico', cursive; /* Apply a cursive font to h1 */
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #ff5733; /* Fancy color */
     text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
     color: black;
@@ -29,7 +29,7 @@ h1 {
 
 .luck {
     font-weight: 900;
-    font-family: 'Dancing Script', cursive;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
     color:yellow;
     visibility: hidden; 
